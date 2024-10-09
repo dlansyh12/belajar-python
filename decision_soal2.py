@@ -1,3 +1,5 @@
+#program menghitung sisi
+
 def input_sisi(prompt):
     # Fungsi untuk memastikan input adalah angka
     while True:
